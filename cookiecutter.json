@@ -2,5 +2,6 @@
     "project_title": "Cookiecutter Personal",
     "project_slug": "cookiecutter_personal",
     "project_description": "Something cool",
-    "project_author_name": "KevCangas"
+    "project_author_name": "KevCangas",
+    "project_version": "0.0.1" 
 }
