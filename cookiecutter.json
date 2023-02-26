@@ -3,5 +3,6 @@
     "project_slug": "cookiecutter_personal",
     "project_description": "Something cool",
     "project_author_name": "KevCangas",
+    "project_author_email": "kev162020@gmail.com",
     "project_version": "0.0.1" 
 }
