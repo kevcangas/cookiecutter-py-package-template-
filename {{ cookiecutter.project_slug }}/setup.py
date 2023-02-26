@@ -17,7 +17,7 @@ setup(
    version={{ cookiecutter.project_version }},
    description={{ cookiecutter.project_description }},
    author={{ cookiecutter.project_author_name }},
-   author_email={{ cookiecutter.project_author }},
+   author_email={{ cookiecutter.project_author_email }},
    packages= [{{ cookiecutter.project_slug }}],  # would be the same as name
    install_requires=requires #external packages acting as dependencies
 )
